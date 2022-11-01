@@ -12,5 +12,4 @@ string num2 = Console.ReadLine();
     else
     {
      Console.WriteLine("Большее число:"+num2+", меньше; "+num1);
-
     }
